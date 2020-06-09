@@ -1,3 +1,3 @@
 # clone-spotify
 
-Acesse:  https://marcosnfrei.github.io/clone-spotify/
+Acesse:  https://marcosfreiberger.github.io/clone-spotify/
